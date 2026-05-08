@@ -66,6 +66,8 @@
 
 ## Prompts
 
+*注意：下面的source_language和target_languge都使用语言的全称，中文使用中文全称，英文使用英文全称。*
+
 ### 中外互译prompt模板
 ---
 ```
