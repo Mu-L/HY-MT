@@ -71,6 +71,9 @@ You can refer to our technical report for more experimental results and analysis
 
 ## Prompts
 
+*Note: The following `source_language` and `target_language` should both use the full names of the languages; use the full Chinese names for Chinese instruction and the full English names for English instruction.*
+
+
 ### Prompt Template for ZH<=>XX Translation.
 ---
 ```
